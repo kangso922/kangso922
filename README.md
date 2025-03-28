@@ -1,16 +1,64 @@
 ## Hi there 👋
 
-<!--
-**kangso922/kangso922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">🔥 Dev Hub of You 🔥</h1>
+<p align="center">“단순하고 확실하게, 가볍고 유연하게.”</p>
+<p align="center"> 선택과 집중을 아는 사람.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 연락처
+- 📧 hwauin09@gmail.com  
+- 🐙 GitHub : [github.com/kangso922](https://github.com/kangso922)
+
+---
+
+### 🧰 기술 스택
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🚀 프로젝트
+
+#### 🧩 진단 플랫폼 백엔드 시스템
+
+- 기술 스택 : `Java`, `Spring Boot`, `PostgreSQL`, `AWS EC2`
+
+
+
+---
+
+### 👨‍💻 About Me
+
+**실용적이고, 합리적인 방향을 택하는 개발자입니다.**  
+주어진 조건 안에서 가장 효율적인 방법을 찾고, 일정과 품질을 동시에 책임집니다.  
+
+PHP를 기반으로 웹 서비스를 개발하고 운영해 왔으며,  
+현재는 Java + Spring 기반 백엔드 구조와 확장성 있는 시스템 설계를 학습하고 있습니다.  
+
+복잡함보다는 유지보수가 쉬운 구조,  
+눈에 보이는 기능보다는 작동하는 흐름에 집중합니다.  
+
+---
+
+### 🌱 나를 설명하는 키워드
+
+- 📌 **실용주의** : 트렌드보다 상황에 맞는 기술을 우선시함  
+- ⏱️ **일정관리** : 정해진 기간 안에 끝내는 게 기본이라 생각함  
+- 📦 **책임감** : 맡은 일은 끝까지, 결과물로 말함  
+- ⚙️ **효율 중심** : 최소 비용, 최대 효과를 고민함  
+- 🧩 **조율 능력** : 외주, 협업, 커뮤니케이션 부담 없이 풀 수 있음  
+
+---
+
+### 💬 한 줄 소개
+
+> "기능보다 흐름을, 이상보다 현실을 보는 사람입니다."
