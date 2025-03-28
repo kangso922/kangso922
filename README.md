@@ -1,9 +1,9 @@
 ## Hi there 👋
 
+<img src="https://github.com/kangso922/kangso922/blob/main/sojins_repository_background_only.png?raw=true" width="100%" />
 
 
 <h1 align="center">🔥 Dev Hub of You 🔥</h1>
-<p align="center">“기능보다 흐름을, 이상보다 현실을 보는 사람입니다.”</p>
 
 <br>
 
