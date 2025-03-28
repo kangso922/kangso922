@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<img src="https://github.com/kangso922/kangso922/blob/main/sojins_repository_background_only.png?raw=true" width="100%" />
+<img src="https://github.com/kangso922/kangso922/blob/main/img.PNG?raw=true" width="100%" />
 
 
-<h1 align="center">🔥 Dev Hub of You 🔥</h1>
 
 <br>
 
