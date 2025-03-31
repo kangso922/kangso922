@@ -34,10 +34,10 @@
 ### 🚀 프로젝트
 
 #### 🧩 진단 플랫폼 백엔드 시스템  
-퍼블리셔가 관리하는 진단 흐름을 자동 해석하고,  
-단계 기반 설계를 통해 유연한 결과 도출이 가능한 진단 플랫폼 백엔드 구축.
+Gemini API와 연동되는 AI 진단 서비스의 백엔드 시스템을 Spring Boot 기반으로 구축하고, AWS에 수동 배포하였습니다.
 
 - 기술 스택 : `Java`, `Spring Boot`, `PostgreSQL`, `AWS EC2`
+- 🔗 [GitHub 저장소 보기](https://github.com/kangso922/perfectdayfly-redsignal-backend)
 
 <br>
 
